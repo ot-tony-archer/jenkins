@@ -1,3 +1,3 @@
 # jenkins
 
-Doing tests all day long
+Edit on dev and merge conflict this sucker
